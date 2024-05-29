@@ -1,9 +1,333 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T15:25:06.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.0" etag="iAv-cWTPF0_29S3G0GiS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T16:49:16.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="gEZ2RS_EXi8xxZVmlkJe" version="24.4.0" type="github">
   <diagram name="Página-1" id="UPb7-A2myzlJfk2rmj8a">
-    <mxGraphModel>
+    <mxGraphModel dx="1354" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-2" target="D4e9lm8wjW5pRh4vj5HC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-2" value="&lt;div&gt;Cliente realiza&lt;/div&gt;&lt;div&gt;un pedido&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-3" target="D4e9lm8wjW5pRh4vj5HC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-3" value="&lt;div&gt;pedido se&lt;/div&gt;&lt;div&gt;registra en el sistema&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-5" target="D4e9lm8wjW5pRh4vj5HC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-5" value="&lt;div&gt;deposito recibe&lt;/div&gt;&lt;div&gt;una notificación&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-7" target="D4e9lm8wjW5pRh4vj5HC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-7" value="&lt;div&gt;depósito que&lt;/div&gt;&lt;div&gt;recoge los art-&lt;/div&gt;&lt;div&gt;ículos&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-9" target="D4e9lm8wjW5pRh4vj5HC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-9" value="&lt;div&gt;el pedido&lt;/div&gt;&lt;div&gt;empaquetado&lt;/div&gt;&lt;div&gt;se entrega a&lt;/div&gt;&lt;div&gt;un socio&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-11" value="&lt;div&gt;el cliente se&lt;/div&gt;&lt;div&gt;recibe el&lt;/div&gt;&lt;div&gt;paquete&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-13" target="D4e9lm8wjW5pRh4vj5HC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-13" value="&lt;div&gt;Recepción de&lt;/div&gt;&lt;div&gt;materias pri-&lt;/div&gt;&lt;div&gt;mas&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-14" target="D4e9lm8wjW5pRh4vj5HC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-14" value="&lt;div&gt;Almacena-&lt;/div&gt;&lt;div&gt;miento de&lt;/div&gt;&lt;div&gt;materias primas&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-16" target="D4e9lm8wjW5pRh4vj5HC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-16" value="&lt;div&gt;Transforma-&lt;/div&gt;&lt;div&gt;ción&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-18" target="D4e9lm8wjW5pRh4vj5HC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-18" value="&lt;div&gt;Control de&lt;/div&gt;&lt;div&gt;calidad&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-20" target="D4e9lm8wjW5pRh4vj5HC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-20" value="&lt;div&gt;Empaqueta-&lt;/div&gt;&lt;div&gt;do y etiquetado&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-22" target="D4e9lm8wjW5pRh4vj5HC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-22" value="&lt;div&gt;Almacena-&lt;/div&gt;&lt;div&gt;miento de&lt;/div&gt;&lt;div&gt;productos&lt;/div&gt;&lt;div&gt;terminamos&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-24" value="Distribución" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-26" target="D4e9lm8wjW5pRh4vj5HC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-26" value="&lt;div&gt;Recepción de&lt;/div&gt;&lt;div&gt;solicitudes&lt;/div&gt;&lt;div&gt;de atención&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-27" target="D4e9lm8wjW5pRh4vj5HC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-27" value="&lt;div&gt;Registrado de&lt;/div&gt;&lt;div&gt;información&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-29" target="D4e9lm8wjW5pRh4vj5HC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-29" value="&lt;div&gt;Análisis y&lt;/div&gt;&lt;div&gt;evaluación&lt;/div&gt;&lt;div&gt;del&lt;/div&gt;&lt;div&gt;problema&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-31" target="D4e9lm8wjW5pRh4vj5HC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-31" value="&lt;div&gt;Resolución&lt;/div&gt;&lt;div&gt;del problema&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-33" value="&lt;div&gt;Seguimiento&lt;/div&gt;&lt;div&gt;y cierre&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-35" target="D4e9lm8wjW5pRh4vj5HC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-35" value="&lt;div&gt;Anuncio y&lt;/div&gt;&lt;div&gt;reclutamiento&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-36" target="D4e9lm8wjW5pRh4vj5HC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-36" value="&lt;div&gt;Selección de&lt;/div&gt;&lt;div&gt;currículums&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-38" target="D4e9lm8wjW5pRh4vj5HC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-38" value="&lt;div&gt;Entrevistas&lt;/div&gt;&lt;div&gt;telefonicas&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-40" target="D4e9lm8wjW5pRh4vj5HC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-40" value="&lt;div&gt;Entrevistas&lt;/div&gt;&lt;div&gt;en persona&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-42" target="D4e9lm8wjW5pRh4vj5HC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-42" value="&lt;div&gt;Evaluación&lt;/div&gt;&lt;div&gt;de referencias&lt;/div&gt;&lt;div&gt;laborales&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-44" target="D4e9lm8wjW5pRh4vj5HC-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-44" value="&lt;div&gt;Pruebas y&lt;/div&gt;&lt;div&gt;evaluaciones&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-46" target="D4e9lm8wjW5pRh4vj5HC-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-46" value="&lt;div&gt;Toma de&lt;/div&gt;&lt;div&gt;decisiones&lt;/div&gt;&lt;div&gt;ofertas&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-48" value="&lt;div&gt;Proceso de&lt;/div&gt;&lt;div&gt;incorporación&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-50" target="D4e9lm8wjW5pRh4vj5HC-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-50" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Registro y&lt;br&gt;clasificación de productos&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-51" target="D4e9lm8wjW5pRh4vj5HC-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-51" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;Actualización de&lt;br&gt;existencias&lt;/span&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-57" target="D4e9lm8wjW5pRh4vj5HC-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-57" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Análisis de la&lt;br/&gt;demanda&lt;/span&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-59" target="D4e9lm8wjW5pRh4vj5HC-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-59" value="&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;Reabasteci-&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;miento&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;de&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;inventario&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-61" target="D4e9lm8wjW5pRh4vj5HC-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-61" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Control de&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;caducidad&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-63" target="D4e9lm8wjW5pRh4vj5HC-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-63" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;Realización&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;inventarios&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;físicos&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-65" target="D4e9lm8wjW5pRh4vj5HC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-65" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Análisis de&lt;br/&gt;obsolescencia&lt;/span&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-67" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Actualización&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;y&lt;br&gt;análisis de&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;informes&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-69" target="D4e9lm8wjW5pRh4vj5HC-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-69" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se realiza una investigación&lt;/span&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-70" target="D4e9lm8wjW5pRh4vj5HC-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-70" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se desarrolla&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;una&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;estrategia de marketing&lt;/span&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-72" target="D4e9lm8wjW5pRh4vj5HC-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-72" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se crea&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;contenido&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;de&lt;br/&gt;calidad&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-74" target="D4e9lm8wjW5pRh4vj5HC-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-74" value="&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;Se&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;promociona&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;el&lt;br/&gt;contenido &lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-76" target="D4e9lm8wjW5pRh4vj5HC-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-76" value="&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;Se utilizan&lt;br/&gt;herramientas&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;automatización&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-78" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;seguimiento&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;de los&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;resultados&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-80" target="D4e9lm8wjW5pRh4vj5HC-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-80" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se generan&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;y&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;envían&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;facturas a los clientes&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-81" target="D4e9lm8wjW5pRh4vj5HC-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-81" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se utiliza un&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;sistema&lt;br/&gt;de facturación&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-83" target="D4e9lm8wjW5pRh4vj5HC-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-83" value="&lt;div&gt;Registro y&lt;/div&gt;&lt;div&gt;actualización&lt;/div&gt;&lt;div&gt;de enviós&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-85" target="D4e9lm8wjW5pRh4vj5HC-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-85" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;seguimiento&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;de los&lt;br&gt;pagos&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;pendientes&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-87" target="D4e9lm8wjW5pRh4vj5HC-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-87" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se gestiona la&lt;br/&gt;cartera&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;cuentas por&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;cobrar&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-89" target="D4e9lm8wjW5pRh4vj5HC-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-89" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se gestiona la&lt;br/&gt;cartera&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;cuentas por&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;cobrar&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-91" target="D4e9lm8wjW5pRh4vj5HC-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-91" value="&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;conciliación&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;regular&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;de las cuentas&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-93" target="D4e9lm8wjW5pRh4vj5HC-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-93" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;generan&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;informes&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;periódicos&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-95" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;se toman&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;medidas&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;&amp;nbsp;para&lt;br/&gt;la&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;recuperación&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-97" target="D4e9lm8wjW5pRh4vj5HC-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-97" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;desarrollar&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;nuevos&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;productos o&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;mejorar los productos existentes&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-98" target="D4e9lm8wjW5pRh4vj5HC-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-98" value="&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;evalúa la&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;viabilidad&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;técnica &lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-100" target="D4e9lm8wjW5pRh4vj5HC-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-100" value="&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;Se lleva a&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;cabo una&lt;br/&gt;investigación&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-102" target="D4e9lm8wjW5pRh4vj5HC-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-102" value="&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;Se lleva a&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;cabo una&lt;br/&gt;investigación&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-104" target="D4e9lm8wjW5pRh4vj5HC-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-104" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se realizan&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;pruebas y&lt;br/&gt;validaciones&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-ansi-language:&lt;br/&gt;#000A;mso-fareast-language:ES-BO;mso-bidi-language:AR-SA&quot; lang=&quot;es&quot;&gt; &lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-106" target="D4e9lm8wjW5pRh4vj5HC-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-106" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;Se&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;realiza el&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;diseño&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;detallado del producto&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-108" target="D4e9lm8wjW5pRh4vj5HC-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-108" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;se lanza al&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;mercado a&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;través de&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;actividades de marketing&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4e9lm8wjW5pRh4vj5HC-110" target="D4e9lm8wjW5pRh4vj5HC-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-110" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;seguimiento&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;del&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;rendimiento&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif; font-size: 12px;&quot; lang=&quot;es&quot;&gt;del producto&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4e9lm8wjW5pRh4vj5HC-112" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;retirar&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;el producto&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;del&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;mercado si&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;este presente problemas&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%; font-family: &amp;quot;Arial&amp;quot;, sans-serif;&quot; lang=&quot;es&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
